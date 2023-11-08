@@ -1,4 +1,4 @@
-# DataSciencePro
+# TimeSeriesBicycle_counts_on_Seattle’s_Fremont_Bridge
 TimeSeriesBicycle_counts_on_Seattle’s_Fremont_Bridge
 
 Data Science Project on Time Series
